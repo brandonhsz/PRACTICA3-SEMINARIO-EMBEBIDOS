@@ -1,0 +1,3 @@
+# Practica 3 Seminario De Programacion De Sistemas Embebidos
+
+DISPLAY 7 SEGMENTOS SALIDAS DIGITALES EN HEXADECIMAL PIC16F887
